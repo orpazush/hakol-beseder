@@ -61,6 +61,10 @@ dependencies:
   # To adjust the app to the right time zone
   flutter_native_timezone: ^2.0.0
 
+  timezone: ^0.9.0
+
+  flutter_sms: ^2.3.3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
